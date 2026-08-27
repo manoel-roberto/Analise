@@ -1,0 +1,1416 @@
+{
+  "quantitativos": {
+    "total_servidores_cadastrados": 2120,
+    "total_servidores_ativos": 2118,
+    "total_servidores_cedidos": 2,
+    "total_unidades_organizacionais_ativas": 162,
+    "total_servidores_multiplos_vinculos": 15
+  },
+  "chefias": [
+    {
+      "codigo_unidade": 10003837,
+      "sigla_unidade": "CCI",
+      "nome_unidade": "COORDENAÇÃO DE CONTROLE INTERNO",
+      "matricula_chefe": "9381641",
+      "nome_chefe": "CARLOS EDUARDO CARDOSO DE OLIVEIRA"
+    },
+    {
+      "codigo_unidade": 10023750,
+      "sigla_unidade": "REITORIA",
+      "nome_unidade": "REITORIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023752,
+      "sigla_unidade": "AEI",
+      "nome_unidade": "ASSESSORIA ESPECIAL DE INFORMÁTICA",
+      "matricula_chefe": "9444206",
+      "nome_chefe": "JASMO DANTAS DE OLIVEIRA"
+    },
+    {
+      "codigo_unidade": 10023753,
+      "sigla_unidade": "GERDES",
+      "nome_unidade": "GERÊNCIA DE DESENVOLVIMENTO",
+      "matricula_chefe": "71532531, 92016654, 9444206",
+      "nome_chefe": "MARCUS VINICIUS ARAUJO MARTINS, DOUGLAS EDER UNO SILVA, JASMO DANTAS DE OLIVEIRA"
+    },
+    {
+      "codigo_unidade": 10023754,
+      "sigla_unidade": "GERSUP",
+      "nome_unidade": "GERÊNCIA DE SUPORTE",
+      "matricula_chefe": "92035959, 9444206",
+      "nome_chefe": "HADARLENNE MORAIS DA CRUZ MENDES, JASMO DANTAS DE OLIVEIRA"
+    },
+    {
+      "codigo_unidade": 10023755,
+      "sigla_unidade": "SUBGERSUP",
+      "nome_unidade": "SUBGERÊNCIA DE MANUTENÇÃO",
+      "matricula_chefe": "9444206",
+      "nome_chefe": "JASMO DANTAS DE OLIVEIRA"
+    },
+    {
+      "codigo_unidade": 10023756,
+      "sigla_unidade": "AERI",
+      "nome_unidade": "ASSESSORIA ESP RELAÇÕES INSTITUCIONAIS",
+      "matricula_chefe": "71470594",
+      "nome_chefe": "ENEIDA SOANNE MATOS CAMPOS DE OLIVEIRA"
+    },
+    {
+      "codigo_unidade": 10023757,
+      "sigla_unidade": "ANTARES",
+      "nome_unidade": "OBSERVATÓRIO ASTRONÔM ANTARES",
+      "matricula_chefe": "71529374, 71300366",
+      "nome_chefe": "LIVIA DOS SANTOS REIS, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023759,
+      "sigla_unidade": "ASCOM",
+      "nome_unidade": "ASSESSORIA DE COMUNICAÇÃO",
+      "matricula_chefe": "92082619, 71300366",
+      "nome_chefe": "DANIELE CERQUEIRA BRITTO DE MELO, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023760,
+      "sigla_unidade": "ASPLAN",
+      "nome_unidade": "ASSESSORIA TÉC E DE DES ORGANIZACIONAL",
+      "matricula_chefe": "17357897",
+      "nome_chefe": "ALESSANDRA SILVA BARROS ARAUJO"
+    },
+    {
+      "codigo_unidade": 10023761,
+      "sigla_unidade": "ATDO",
+      "nome_unidade": "ASSESSORIA TÉC DE DESENV ORGANIZACIONAL",
+      "matricula_chefe": "17357897",
+      "nome_chefe": "ALESSANDRA SILVA BARROS ARAUJO"
+    },
+    {
+      "codigo_unidade": 10023762,
+      "sigla_unidade": "ATO",
+      "nome_unidade": "ASSESSORIA TÉCNICA DE ORÇAMENTO",
+      "matricula_chefe": "17357897",
+      "nome_chefe": "ALESSANDRA SILVA BARROS ARAUJO"
+    },
+    {
+      "codigo_unidade": 10023764,
+      "sigla_unidade": "CACD",
+      "nome_unidade": "CAMPUS AVANÇADO DA CHAPADA DIAMANTINA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023765,
+      "sigla_unidade": "CARS",
+      "nome_unidade": "CENTRO DE AGROECOLOGIA RIO SECO",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023766,
+      "sigla_unidade": "COLECOMP",
+      "nome_unidade": "COL DO CURSO DE ENGENHARIA DE COMPUTAÇÃO",
+      "matricula_chefe": "71523456",
+      "nome_chefe": "ANA LUCIA LIMA MARREIROS"
+    },
+    {
+      "codigo_unidade": 10023767,
+      "sigla_unidade": "CEBESCOLA",
+      "nome_unidade": "CENTRO DE EDUCAÇÃO BÁSICA-ESCOLA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023768,
+      "sigla_unidade": "CEP",
+      "nome_unidade": "COMITÊ DE ÉTICA EM PESQUISA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023770,
+      "sigla_unidade": "COLADM",
+      "nome_unidade": "COL DO CURSO DE ADMINISTRAÇÃO",
+      "matricula_chefe": "74425896, 71300366",
+      "nome_chefe": "SAULO JOSE DOS SANTOS ROCHA, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023771,
+      "sigla_unidade": "COLAGRO",
+      "nome_unidade": "COL DO CURSO DE AGRONOMIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023772,
+      "sigla_unidade": "COLBIO",
+      "nome_unidade": "COL DO CURSO DE CIÊNCIAS BIOLÓGICAS",
+      "matricula_chefe": "71513199",
+      "nome_chefe": "HELIO MITOSHI KAMIDA"
+    },
+    {
+      "codigo_unidade": 10023773,
+      "sigla_unidade": "COLCFAR",
+      "nome_unidade": "COL DO CURSO DE C. FARMACÊUTICAS",
+      "matricula_chefe": "71300366",
+      "nome_chefe": "EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023774,
+      "sigla_unidade": "COLCON",
+      "nome_unidade": "COL DO CURSO DE CIÊNCIAS CONTÁBEIS",
+      "matricula_chefe": "71364750",
+      "nome_chefe": "HERVAL DA SILVA MOURA"
+    },
+    {
+      "codigo_unidade": 10023775,
+      "sigla_unidade": "COLDIR",
+      "nome_unidade": "COL DO CURSO DE DIREITO",
+      "matricula_chefe": "92077159, 71300366",
+      "nome_chefe": "VANESSA MASCARENHAS GOES LIMA, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023776,
+      "sigla_unidade": "COLECO",
+      "nome_unidade": "COL DO CURSO DE CIÊNCIAS ECONÔMICAS",
+      "matricula_chefe": "74490529",
+      "nome_chefe": "JANUZIA SOUZA MENDES DE ARAUJO"
+    },
+    {
+      "codigo_unidade": 10023777,
+      "sigla_unidade": "COLEDUFIS",
+      "nome_unidade": "COL DO CURSO DE EDUCAÇÃO FÍSICA",
+      "matricula_chefe": "71449501",
+      "nome_chefe": "GILMAR MERCES DE JESUS"
+    },
+    {
+      "codigo_unidade": 10023778,
+      "sigla_unidade": "COLENF",
+      "nome_unidade": "COL DO CURSO DE ENFERMAGEM",
+      "matricula_chefe": "71524472",
+      "nome_chefe": "AISIANE CEDRAZ MORAIS"
+    },
+    {
+      "codigo_unidade": 10023779,
+      "sigla_unidade": "COLENGAL",
+      "nome_unidade": "COL DO CURSO DE ENGEN ALIMENTOS",
+      "matricula_chefe": "71300366, 71502119",
+      "nome_chefe": "EVANDRO DO NASCIMENTO SILVA, RICARDO SANTOS NASCIMENTO"
+    },
+    {
+      "codigo_unidade": 10023780,
+      "sigla_unidade": "COLENGCIV",
+      "nome_unidade": "COL DO CURSO DE ENG CIVIL",
+      "matricula_chefe": "71300366, 71421039",
+      "nome_chefe": "EVANDRO DO NASCIMENTO SILVA, MONICA BATISTA LEITE"
+    },
+    {
+      "codigo_unidade": 10023782,
+      "sigla_unidade": "COLET",
+      "nome_unidade": "COL DO CURSO DE LETRAS VÉRNÁCULAS",
+      "matricula_chefe": "71300366",
+      "nome_chefe": "EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023783,
+      "sigla_unidade": "COLFIL",
+      "nome_unidade": "COL DO CURSO DE FILOSOFIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023784,
+      "sigla_unidade": "COLFIS",
+      "nome_unidade": "COL DO CURSO DE FÍSICA",
+      "matricula_chefe": "92121919, 71512492",
+      "nome_chefe": "LAURA SUED BRANDAO SANTOS, FREDSON BRAZ MATOS DOS SANTOS"
+    },
+    {
+      "codigo_unidade": 10023785,
+      "sigla_unidade": "COLGEO",
+      "nome_unidade": "COL DO CURSO DE GEOGRAFIA",
+      "matricula_chefe": "74438723",
+      "nome_chefe": "EDINUSIA MOREIRA CARNEIRO SANTOS"
+    },
+    {
+      "codigo_unidade": 10023786,
+      "sigla_unidade": "COLHIS",
+      "nome_unidade": "COL DO CURSO DE HISTÓRIA",
+      "matricula_chefe": "74003299",
+      "nome_chefe": "ANA MARIA CARVALHO DOS SANTOS"
+    },
+    {
+      "codigo_unidade": 10023787,
+      "sigla_unidade": "COLING",
+      "nome_unidade": "COL DO CURSO DE LETRAS COM INGLÊS",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023788,
+      "sigla_unidade": "COLMAT",
+      "nome_unidade": "COL DO CURSO DE MATEMÁTICA",
+      "matricula_chefe": "71538799, 71364405",
+      "nome_chefe": "MAURICIO DE ARAUJO FERREIRA, CLAUDIANO GOULART"
+    },
+    {
+      "codigo_unidade": 10023789,
+      "sigla_unidade": "COLMED",
+      "nome_unidade": "COL DO CURSO DE MEDICINA",
+      "matricula_chefe": "71419445, 71495926",
+      "nome_chefe": "MARCOS VINICIUS MIRANDA DOS SANTOS, JOSE DE BESSA JUNIOR"
+    },
+    {
+      "codigo_unidade": 10023790,
+      "sigla_unidade": "INTMED",
+      "nome_unidade": "INTERNATO MÉDICO",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023791,
+      "sigla_unidade": "COLMUS",
+      "nome_unidade": "COL DO CURSO DE MÚSICA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023792,
+      "sigla_unidade": "COLODONT",
+      "nome_unidade": "COL DO CURSO DE ODONTOLOGIA",
+      "matricula_chefe": "71276900",
+      "nome_chefe": "MYRIA CONCEICAO CERQUEIRA FELIX"
+    },
+    {
+      "codigo_unidade": 10023793,
+      "sigla_unidade": "COLPED",
+      "nome_unidade": "COL DO CURSO DE PEDAGOGIA",
+      "matricula_chefe": "71509101, 71300366",
+      "nome_chefe": "ANA CARLA RAMALHO EVANGELISTA LIMA, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023794,
+      "sigla_unidade": "COLPSI",
+      "nome_unidade": "COL DO CURSO DE PSICOLOGIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023795,
+      "sigla_unidade": "COLQUI",
+      "nome_unidade": "COL DO CURSO DE QUÍMICA",
+      "matricula_chefe": "71300366",
+      "nome_chefe": "EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023796,
+      "sigla_unidade": "COPEL",
+      "nome_unidade": "COMISSÃO PERMANENTE DE LICITAÇÃO",
+      "matricula_chefe": "71533583, 71421378",
+      "nome_chefe": "MANUELLA FLORENTINO VANDERLEI PAIVA SANT, MICHELE DOS SANTOS COUTINHO"
+    },
+    {
+      "codigo_unidade": 10023797,
+      "sigla_unidade": "CUCA",
+      "nome_unidade": "CENTRO UNIVERSITÁRIO DE CULTURA E ARTE",
+      "matricula_chefe": "71530480, 71307559, 74440841",
+      "nome_chefe": "ROSA EUGENIA VILAS BOAS MOREIRA DE SANTA, CRISTIANA BARBOSA DE OLIVEIRA RAMOS, ALDO JOSE MORAIS SILVA"
+    },
+    {
+      "codigo_unidade": 10023798,
+      "sigla_unidade": "BSPK",
+      "nome_unidade": "BIBLIOTECA SETORIAL PIERRE KLOSE",
+      "matricula_chefe": "71547830",
+      "nome_chefe": "CLEMILDA SANTANA DOS REIS DE JESUS"
+    },
+    {
+      "codigo_unidade": 10023801,
+      "sigla_unidade": "MRA",
+      "nome_unidade": "MUSEU REGIONAL DE ARTE",
+      "matricula_chefe": "71307559",
+      "nome_chefe": "CRISTIANA BARBOSA DE OLIVEIRA RAMOS"
+    },
+    {
+      "codigo_unidade": 10023803,
+      "sigla_unidade": "SM",
+      "nome_unidade": "SEMINÁRIO DE MÚSICA",
+      "matricula_chefe": "71307559",
+      "nome_chefe": "CRISTIANA BARBOSA DE OLIVEIRA RAMOS"
+    },
+    {
+      "codigo_unidade": 10023804,
+      "sigla_unidade": "DCBIO",
+      "nome_unidade": "DEPTO DE CIÊNCIAS BIOLÓGICAS",
+      "matricula_chefe": "71362451, 71300366",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023805,
+      "sigla_unidade": "BIOTERIO",
+      "nome_unidade": "BIOTÉRIO",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023807,
+      "sigla_unidade": "LABGENTOX",
+      "nome_unidade": "LAB DE GENÉTICA TOXICOLÓGICA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023808,
+      "sigla_unidade": "HUEFS",
+      "nome_unidade": "HERBÁRIO",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023812,
+      "sigla_unidade": "LAC",
+      "nome_unidade": "LAB DE ANÁLI CLÍN E PARASITOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023813,
+      "sigla_unidade": "LADIBIO",
+      "nome_unidade": "LABS DIDÁTICOS",
+      "matricula_chefe": "71421451, 71362451",
+      "nome_chefe": "SUZANA FERREIRA MAGALHAES GADEA, CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023814,
+      "sigla_unidade": "LADROS",
+      "nome_unidade": "LAB DE DROSOPHILA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023816,
+      "sigla_unidade": "LAFICO",
+      "nome_unidade": "LAB DE FICOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023819,
+      "sigla_unidade": "LAMIC",
+      "nome_unidade": "LAB DE MICOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023820,
+      "sigla_unidade": "LAMIV",
+      "nome_unidade": "LAB DE MICROMORFOLOGIA VEGETAL",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023821,
+      "sigla_unidade": "LAMOL",
+      "nome_unidade": "LAB DE SISTEMAT MOLECULAR PLANTAS",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023823,
+      "sigla_unidade": "LAPEM",
+      "nome_unidade": "LAB DE PESQU DE MICROBIOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023824,
+      "sigla_unidade": "LAPH",
+      "nome_unidade": "LAB DE ANIM PEÇONHENTOS E HERPETOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023825,
+      "sigla_unidade": "LASIS",
+      "nome_unidade": "LAB DE SISTEMÁTICA DE INSETOS",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023828,
+      "sigla_unidade": "LENT",
+      "nome_unidade": "LAB DE ENTOMOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023829,
+      "sigla_unidade": "LETNO",
+      "nome_unidade": "LAB DE ETNOBIOLOGIA E ETNOECOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023832,
+      "sigla_unidade": "LIUEFS",
+      "nome_unidade": "LAB DE ICTIOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023833,
+      "sigla_unidade": "MZFS",
+      "nome_unidade": "MUSEU DE ZOOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023834,
+      "sigla_unidade": "ORNITO",
+      "nome_unidade": "LAB DE ORNITOLOGIA",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023836,
+      "sigla_unidade": "TAXON",
+      "nome_unidade": "LAB DE TAXONOMIA VEGETAL",
+      "matricula_chefe": "71362451",
+      "nome_chefe": "CLAUDIA ELENA CARNEIRO"
+    },
+    {
+      "codigo_unidade": 10023837,
+      "sigla_unidade": "DCHF",
+      "nome_unidade": "DEPTO DE CIÊNCIAS HUMANAS E FILOSOFIA",
+      "matricula_chefe": "71288318",
+      "nome_chefe": "RINALDO CESAR NASCIMENTO LEITE"
+    },
+    {
+      "codigo_unidade": 10023838,
+      "sigla_unidade": "CEDOC",
+      "nome_unidade": "CENTRO DE DOCUMENTAÇÃO E PESQUISA",
+      "matricula_chefe": "71288318",
+      "nome_chefe": "RINALDO CESAR NASCIMENTO LEITE"
+    },
+    {
+      "codigo_unidade": 10023839,
+      "sigla_unidade": "CER",
+      "nome_unidade": "CENTRO DE ESTUDOS DO RECÔNCAVO",
+      "matricula_chefe": "71288318",
+      "nome_chefe": "RINALDO CESAR NASCIMENTO LEITE"
+    },
+    {
+      "codigo_unidade": 10023848,
+      "sigla_unidade": "LEG",
+      "nome_unidade": "LAB DE ENSINO DE GEOGRAFIA",
+      "matricula_chefe": "71288318",
+      "nome_chefe": "RINALDO CESAR NASCIMENTO LEITE"
+    },
+    {
+      "codigo_unidade": 10023849,
+      "sigla_unidade": "DCIS",
+      "nome_unidade": "DEPTO DE CIÊNCIAS SOCIAIS APLICADAS",
+      "matricula_chefe": "74425703, 71300366",
+      "nome_chefe": "HELIO PONCE CUNHA, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023850,
+      "sigla_unidade": "SAJUEFS",
+      "nome_unidade": "SERVIÇO DE ASSIST JURÍDICA DA UEFS",
+      "matricula_chefe": "74425703, 71300366",
+      "nome_chefe": "HELIO PONCE CUNHA, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023851,
+      "sigla_unidade": "DEDU",
+      "nome_unidade": "DEPTO DE EDUCAÇÃO",
+      "matricula_chefe": "71364526",
+      "nome_chefe": "MARCO ANTONIO LEANDRO BARZANO"
+    },
+    {
+      "codigo_unidade": 10023852,
+      "sigla_unidade": "DEXA",
+      "nome_unidade": "DEPTO DE CIÊNCIAS EXATAS",
+      "matricula_chefe": "71449163",
+      "nome_chefe": "FABIANA CRISTINA BERTONI"
+    },
+    {
+      "codigo_unidade": 10023854,
+      "sigla_unidade": "LABEXA",
+      "nome_unidade": "LAB DE CIÊNCIAS EXATAS",
+      "matricula_chefe": "92082135, 71449163",
+      "nome_chefe": "LAIZE DE SANT ANNA ALMEIDA, FABIANA CRISTINA BERTONI"
+    },
+    {
+      "codigo_unidade": 10023855,
+      "sigla_unidade": "LABQUI",
+      "nome_unidade": "LAB DE QUÍMICA",
+      "matricula_chefe": "71449163",
+      "nome_chefe": "FABIANA CRISTINA BERTONI"
+    },
+    {
+      "codigo_unidade": 10023856,
+      "sigla_unidade": "LAPRON",
+      "nome_unidade": "LAB DE PESQ PRODUTOS NATURAIS BIOATIVOS",
+      "matricula_chefe": "71449163",
+      "nome_chefe": "FABIANA CRISTINA BERTONI"
+    },
+    {
+      "codigo_unidade": 10023860,
+      "sigla_unidade": "DFIS",
+      "nome_unidade": "DEPTO DE FÍSICA",
+      "matricula_chefe": "71001580",
+      "nome_chefe": "DAGOBERTO DA SILVA FREITAS"
+    },
+    {
+      "codigo_unidade": 10023871,
+      "sigla_unidade": "DLA",
+      "nome_unidade": "DEPTO DE LETRAS E ARTES",
+      "matricula_chefe": "71277836",
+      "nome_chefe": "CLAUDIO CLEDSON NOVAES"
+    },
+    {
+      "codigo_unidade": 10023872,
+      "sigla_unidade": "COLEF",
+      "nome_unidade": "COL DO CURSO DE LETRAS COM FRANCÊS",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023878,
+      "sigla_unidade": "DSAU",
+      "nome_unidade": "DEPTO DE SAÚDE",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023881,
+      "sigla_unidade": "ALXODON",
+      "nome_unidade": "ALMOXARIFADO DE ODONTOLOGIA",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023882,
+      "sigla_unidade": "CION",
+      "nome_unidade": "CENTRO INT. ODONT JOSÉ SOBREIRA FILHO",
+      "matricula_chefe": "71307422, 71538798",
+      "nome_chefe": "JOSUE OLIVEIRA LEAL, SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023884,
+      "sigla_unidade": "COM",
+      "nome_unidade": "CLÍNICA ODONTOL DA MANGABEIRA",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023887,
+      "sigla_unidade": "LABCFARM",
+      "nome_unidade": "LAB DE CIÊNC FARMACÊUTICAS",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023889,
+      "sigla_unidade": "LABENF",
+      "nome_unidade": "LAB DE ENFERMAGEM",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023891,
+      "sigla_unidade": "LABHA",
+      "nome_unidade": "LAB DE HABILIDADES E ATITUDES",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023898,
+      "sigla_unidade": "LAF",
+      "nome_unidade": "LAB DE ATIVIDADES FÍSICAS",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023901,
+      "sigla_unidade": "LIS",
+      "nome_unidade": "LAB DE INFORMÁTICA EM SAÚDE",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023903,
+      "sigla_unidade": "PQESP",
+      "nome_unidade": "PARQUE ESPORTIVO",
+      "matricula_chefe": "71538798",
+      "nome_chefe": "SILVIA DA SILVA SANTOS PASSOS"
+    },
+    {
+      "codigo_unidade": 10023904,
+      "sigla_unidade": "DTEC",
+      "nome_unidade": "DEPTO DE TECNOLOGIA",
+      "matricula_chefe": "71421038, 71282693",
+      "nome_chefe": "KOJI DE JESUS NAGAHAMA, PAULO ROBERTO LOPES LIMA"
+    },
+    {
+      "codigo_unidade": 10023905,
+      "sigla_unidade": "ESTCLIM",
+      "nome_unidade": "ESTAÇÃO CLIMATOLÓGICA",
+      "matricula_chefe": "71421038",
+      "nome_chefe": "KOJI DE JESUS NAGAHAMA"
+    },
+    {
+      "codigo_unidade": 10023907,
+      "sigla_unidade": "LABGEOTEC",
+      "nome_unidade": "LAB DE GEOTECNOLOGIAS",
+      "matricula_chefe": "71421038",
+      "nome_chefe": "KOJI DE JESUS NAGAHAMA"
+    },
+    {
+      "codigo_unidade": 10023908,
+      "sigla_unidade": "LABOTECI",
+      "nome_unidade": "COORD DO LAB DE TECNOLOGIA I",
+      "matricula_chefe": "71433926, 71421038",
+      "nome_chefe": "CATIA SUZANA SOUZA DO NASCIMENTO, KOJI DE JESUS NAGAHAMA"
+    },
+    {
+      "codigo_unidade": 10023915,
+      "sigla_unidade": "LABSAN",
+      "nome_unidade": "LAB DE SANEAMENTO",
+      "matricula_chefe": "71421038",
+      "nome_chefe": "KOJI DE JESUS NAGAHAMA"
+    },
+    {
+      "codigo_unidade": 10023917,
+      "sigla_unidade": "LABOTECII",
+      "nome_unidade": "COORD DO LAB DE TECNOLOGIA II",
+      "matricula_chefe": "71421038",
+      "nome_chefe": "KOJI DE JESUS NAGAHAMA"
+    },
+    {
+      "codigo_unidade": 10023933,
+      "sigla_unidade": "LASEN",
+      "nome_unidade": "LAB DE ANÁLISE SENSORIAL DE ALIMENTOS",
+      "matricula_chefe": "71421038",
+      "nome_chefe": "KOJI DE JESUS NAGAHAMA"
+    },
+    {
+      "codigo_unidade": 10023934,
+      "sigla_unidade": "LABOTECIII",
+      "nome_unidade": "COORD DO LAB DE TECNOLOGIA III",
+      "matricula_chefe": "71421038",
+      "nome_chefe": "KOJI DE JESUS NAGAHAMA"
+    },
+    {
+      "codigo_unidade": 10023948,
+      "sigla_unidade": "EDITORA",
+      "nome_unidade": "UEFS EDITORA",
+      "matricula_chefe": "71652852",
+      "nome_chefe": "MAGNO OLIVEIRA MACAMBIRA"
+    },
+    {
+      "codigo_unidade": 10023949,
+      "sigla_unidade": "LIVRUNI",
+      "nome_unidade": "LIVRARIA UNIVERSITÁRIA",
+      "matricula_chefe": "71652852",
+      "nome_chefe": "MAGNO OLIVEIRA MACAMBIRA"
+    },
+    {
+      "codigo_unidade": 10023950,
+      "sigla_unidade": "CEU",
+      "nome_unidade": "CERIMONIAL UNIVERSITÁRIO",
+      "matricula_chefe": "71652852, 71527421",
+      "nome_chefe": "MAGNO OLIVEIRA MACAMBIRA, TAISE BOMFIM DE JESUS"
+    },
+    {
+      "codigo_unidade": 10023951,
+      "sigla_unidade": "PROTGER",
+      "nome_unidade": "PROTOCOLO GERAL",
+      "matricula_chefe": "71527421, 71652852",
+      "nome_chefe": "TAISE BOMFIM DE JESUS, MAGNO OLIVEIRA MACAMBIRA"
+    },
+    {
+      "codigo_unidade": 10023952,
+      "sigla_unidade": "SECCAM",
+      "nome_unidade": "SECRETARIA DAS CÂMARAS",
+      "matricula_chefe": "71652852",
+      "nome_chefe": "MAGNO OLIVEIRA MACAMBIRA"
+    },
+    {
+      "codigo_unidade": 10023955,
+      "sigla_unidade": "IU",
+      "nome_unidade": "IMPRENSA UNIVERSITÁRIA",
+      "matricula_chefe": "71532832, 71527421, 71652852",
+      "nome_chefe": "MURILLO ALMEIDA CERQUEIRA CAMPOS, TAISE BOMFIM DE JESUS, MAGNO OLIVEIRA MACAMBIRA"
+    },
+    {
+      "codigo_unidade": 10023956,
+      "sigla_unidade": "MCS",
+      "nome_unidade": "MUSEU CASA DO SERTÃO",
+      "matricula_chefe": "71520105, 71300366",
+      "nome_chefe": "CRISTIANO SILVA CARDOSO, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023957,
+      "sigla_unidade": "OUVIDORIA",
+      "nome_unidade": "OUVIDORIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023958,
+      "sigla_unidade": "PEI",
+      "nome_unidade": "PROCURADORIA EDUCAC INSTITUCIONAL",
+      "matricula_chefe": "71527421, 71652852",
+      "nome_chefe": "TAISE BOMFIM DE JESUS, MAGNO OLIVEIRA MACAMBIRA"
+    },
+    {
+      "codigo_unidade": 10023959,
+      "sigla_unidade": "PPPG",
+      "nome_unidade": "PRÓ-REITORIA DE PESQ PÓS-GRADUAÇÃO",
+      "matricula_chefe": "71495174",
+      "nome_chefe": "SILVONE SANTA BARBARA DA SILVA"
+    },
+    {
+      "codigo_unidade": 10023966,
+      "sigla_unidade": "ESPLIN",
+      "nome_unidade": "COL ESPEC EM LIN ENSINO-APR L PORTUGUESA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023975,
+      "sigla_unidade": "PPGPENF",
+      "nome_unidade": "COL PPG PROFISS EM ENFERMAGEM",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023977,
+      "sigla_unidade": "PPGEDU",
+      "nome_unidade": "COL PPG EM EDUCAÇÃO",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023979,
+      "sigla_unidade": "INOVAUEFS",
+      "nome_unidade": "AGÊNCIA DE INOVAÇÃO DA UEFS",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023980,
+      "sigla_unidade": "PPGASTRO",
+      "nome_unidade": "COL PPG EM ASTRONOMIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023982,
+      "sigla_unidade": "PPGHIS",
+      "nome_unidade": "COL PPG EM HISTÓRIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023984,
+      "sigla_unidade": "PPGBIOTEC",
+      "nome_unidade": "COL PPG EM BIOTECNOLOGIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023985,
+      "sigla_unidade": "PPGBOT",
+      "nome_unidade": "COL PPG EM BOTÂNICA",
+      "matricula_chefe": "71001090",
+      "nome_chefe": "FRANCISCO DE ASSIS RIBEIRO DOS SANTOS"
+    },
+    {
+      "codigo_unidade": 10023986,
+      "sigla_unidade": "PPGCF",
+      "nome_unidade": "COL PPG EM CIÊNCIAS FARMACÊUTICAS",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023987,
+      "sigla_unidade": "ESPDES",
+      "nome_unidade": "COL ESPEC EM DESENHO",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023988,
+      "sigla_unidade": "PPGDCI",
+      "nome_unidade": "COL PPG EM DESENHO, CULT INTERATIV.",
+      "matricula_chefe": "71512491",
+      "nome_chefe": "LIVIA DIAS DE AZEVEDO"
+    },
+    {
+      "codigo_unidade": 10023989,
+      "sigla_unidade": "PPGECEA",
+      "nome_unidade": "COL PPG EM ENG CIVIL E AMBIENTAL",
+      "matricula_chefe": "71300366",
+      "nome_chefe": "EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10023990,
+      "sigla_unidade": "PPGECOEVOL",
+      "nome_unidade": "COL PPG EM ECOLOGIA E EVOLUÇÃO",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023991,
+      "sigla_unidade": "PPGELIN",
+      "nome_unidade": "COL PPG EM ESTUDOS LINGUISTICOS",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023992,
+      "sigla_unidade": "PPGM",
+      "nome_unidade": "COL PPG EM MODELA CIÊNCIA TERRA AMBI",
+      "matricula_chefe": "92027250",
+      "nome_chefe": "WILLIAN MOURA DE AGUIAR"
+    },
+    {
+      "codigo_unidade": 10023995,
+      "sigla_unidade": "PROFCIAMB",
+      "nome_unidade": "COL PPG MEST PROF EM REDE NAC ENSIN C.A",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023996,
+      "sigla_unidade": "PPGRGV",
+      "nome_unidade": "COL PPG EM RECURSOS GENET VEGETAIS",
+      "matricula_chefe": "71654309",
+      "nome_chefe": "LEANDRO ALVARENGA SANTOS"
+    },
+    {
+      "codigo_unidade": 10023997,
+      "sigla_unidade": "PPGSC",
+      "nome_unidade": "COL PPG EM SAÚDE COLETIVA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10023999,
+      "sigla_unidade": "PROFMAT",
+      "nome_unidade": "COL PPG PROFIS EM MATEM REDE NACI",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10024000,
+      "sigla_unidade": "PPGELIT",
+      "nome_unidade": "COL PPG EM ESTUDOS LITERÁRIOS",
+      "matricula_chefe": "74519406",
+      "nome_chefe": "IDMAR BOAVENTURA MOREIRA"
+    },
+    {
+      "codigo_unidade": 10024001,
+      "sigla_unidade": "PROAD",
+      "nome_unidade": "PRÓ-REITORIA DE ADM E FINANÇAS",
+      "matricula_chefe": "9381641, 71421378",
+      "nome_chefe": "CARLOS EDUARDO CARDOSO DE OLIVEIRA, MICHELE DOS SANTOS COUTINHO"
+    },
+    {
+      "codigo_unidade": 10024002,
+      "sigla_unidade": "GEFIN",
+      "nome_unidade": "GERÊNCIA FINANÇAS E CONTABILIDADE",
+      "matricula_chefe": "92077334, 71421378",
+      "nome_chefe": "FABIANE OLIVEIRA DE ALMEIDA GONÇALVES, MICHELE DOS SANTOS COUTINHO"
+    },
+    {
+      "codigo_unidade": 10024003,
+      "sigla_unidade": "GACC",
+      "nome_unidade": "GERENCIA DE APOIO CONTRATOS E CONVÊNIOS",
+      "matricula_chefe": "92118467, 71421378",
+      "nome_chefe": "LAYANE FREITAS OLIVEIRA, MICHELE DOS SANTOS COUTINHO"
+    },
+    {
+      "codigo_unidade": 10024004,
+      "sigla_unidade": "GERAD",
+      "nome_unidade": "GERÊNCIA ADMINISTRATIVA",
+      "matricula_chefe": "71540081, 71421378",
+      "nome_chefe": "MIGUEL FERREIRA DA SILVA NETO, MICHELE DOS SANTOS COUTINHO"
+    },
+    {
+      "codigo_unidade": 10024005,
+      "sigla_unidade": "SALMOX",
+      "nome_unidade": "SUBGERÊNCIA DE ALMOXARIFADO",
+      "matricula_chefe": "71540081",
+      "nome_chefe": "MIGUEL FERREIRA DA SILVA NETO"
+    },
+    {
+      "codigo_unidade": 10024006,
+      "sigla_unidade": "SMC",
+      "nome_unidade": "SUBGERÊNCIA DE MATERIAIS/COMPRAS",
+      "matricula_chefe": "71540081",
+      "nome_chefe": "MIGUEL FERREIRA DA SILVA NETO"
+    },
+    {
+      "codigo_unidade": 10024007,
+      "sigla_unidade": "SPATR",
+      "nome_unidade": "SUBGERÊNCIA DE PATRIMÔNIO",
+      "matricula_chefe": "71540081",
+      "nome_chefe": "MIGUEL FERREIRA DA SILVA NETO"
+    },
+    {
+      "codigo_unidade": 10024008,
+      "sigla_unidade": "GRH",
+      "nome_unidade": "GERÊNCIA DE RECURSOS HUMANOS",
+      "matricula_chefe": "92167686, 71534697, 92073325, 92074265, 92081601",
+      "nome_chefe": "NILA BRANDÃO DE SANTANA, THIAGO FIRMINO DE LIMA, NILA BRANDÃO DE SANTANA, MARILIA ROSA ANDRADE, NADJANE SANTOS BARBOSA"
+    },
+    {
+      "codigo_unidade": 10024009,
+      "sigla_unidade": "CEBCRECHE",
+      "nome_unidade": "CENTRO DE EDUCAÇÃO BÁSICA-CRECHE",
+      "matricula_chefe": "92167686, 71305793",
+      "nome_chefe": "NILA BRANDÃO DE SANTANA, NOELIA MARIA DE FREITAS BRANDAO BOMFIM"
+    },
+    {
+      "codigo_unidade": 10024010,
+      "sigla_unidade": "PCF",
+      "nome_unidade": "POSTO AVANÇADO DE CADASTR DE FORNECEDOR",
+      "matricula_chefe": "71540081",
+      "nome_chefe": "MIGUEL FERREIRA DA SILVA NETO"
+    },
+    {
+      "codigo_unidade": 10024011,
+      "sigla_unidade": "PROEX",
+      "nome_unidade": "PRÓ-REITORIA DE EXTENSÃO",
+      "matricula_chefe": "71527421, 71300366",
+      "nome_chefe": "TAISE BOMFIM DE JESUS, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10024013,
+      "sigla_unidade": "EEA",
+      "nome_unidade": "EQUIPE DE ESTUDOS E EDUCAÇÃO AMBIENTAL",
+      "matricula_chefe": "71527421",
+      "nome_chefe": "TAISE BOMFIM DE JESUS"
+    },
+    {
+      "codigo_unidade": 10024014,
+      "sigla_unidade": "PROGRAD",
+      "nome_unidade": "PRÓ-REITORIA DE ENSINO DE GRADUAÇÃO",
+      "matricula_chefe": "71530480",
+      "nome_chefe": "ROSA EUGENIA VILAS BOAS MOREIRA DE SANTA"
+    },
+    {
+      "codigo_unidade": 10024015,
+      "sigla_unidade": "CSA",
+      "nome_unidade": "COORD DE SELEÇÃO E ADMISSÃO",
+      "matricula_chefe": "71300366, 71653202, 71530480",
+      "nome_chefe": "EVANDRO DO NASCIMENTO SILVA, SHEILA REGINA DOS SANTOS PEREIRA, ROSA EUGENIA VILAS BOAS MOREIRA DE SANTA"
+    },
+    {
+      "codigo_unidade": 10024016,
+      "sigla_unidade": "DAA",
+      "nome_unidade": "DIVISÃO DE ASSUNTOS ACADÊMICOS",
+      "matricula_chefe": "92108501, 71300366, 71530480",
+      "nome_chefe": "FABIO ARLLEN DOS SANTOS SILVA, EVANDRO DO NASCIMENTO SILVA, ROSA EUGENIA VILAS BOAS MOREIRA DE SANTA"
+    },
+    {
+      "codigo_unidade": 10024017,
+      "sigla_unidade": "SERD",
+      "nome_unidade": "SECRETARIA ESPECIAL REGISTRO DE DIPLOMAS",
+      "matricula_chefe": "71516785, 71300366",
+      "nome_chefe": "THAIS MICHELLY ALMEIDA DE SANTANA BACELA, EVANDRO DO NASCIMENTO SILVA"
+    },
+    {
+      "codigo_unidade": 10024018,
+      "sigla_unidade": "DAASGC",
+      "nome_unidade": "SECRETARIA GERAL DE CURSOS - DAA",
+      "matricula_chefe": "71530480, 71470833",
+      "nome_chefe": "ROSA EUGENIA VILAS BOAS MOREIRA DE SANTA, RENATA DA SILVA COSTA"
+    },
+    {
+      "codigo_unidade": 10024020,
+      "sigla_unidade": "PROPAAE",
+      "nome_unidade": "PRÓ-REIT DE POL AFIRM ASSUNT ESTUDANTIS",
+      "matricula_chefe": "71654519",
+      "nome_chefe": "JOELMA OLIVEIRA DA SILVA"
+    },
+    {
+      "codigo_unidade": 10024021,
+      "sigla_unidade": "SESU",
+      "nome_unidade": "SERVIÇO DE SAÚDE UNIVERSITÁRIO",
+      "matricula_chefe": "71307424, 71652852",
+      "nome_chefe": "MAGALY SANTOS CALDAS PALMA, MAGNO OLIVEIRA MACAMBIRA"
+    },
+    {
+      "codigo_unidade": 10024023,
+      "sigla_unidade": "SISBI",
+      "nome_unidade": "SISTEMA INTEGRADO DE BIBLIOTECAS",
+      "matricula_chefe": "71547830",
+      "nome_chefe": "CLEMILDA SANTANA DOS REIS DE JESUS"
+    },
+    {
+      "codigo_unidade": 10024024,
+      "sigla_unidade": "BSCEB",
+      "nome_unidade": "BIBLIO SETORIAL CEB",
+      "matricula_chefe": "71547830",
+      "nome_chefe": "CLEMILDA SANTANA DOS REIS DE JESUS"
+    },
+    {
+      "codigo_unidade": 10024025,
+      "sigla_unidade": "BCJC",
+      "nome_unidade": "BIBLIO CENTRAL JULIETA CARTEADO",
+      "matricula_chefe": "71547830",
+      "nome_chefe": "CLEMILDA SANTANA DOS REIS DE JESUS"
+    },
+    {
+      "codigo_unidade": 10024029,
+      "sigla_unidade": "BSML",
+      "nome_unidade": "BIBLIO SETORIAL MONTEIRO LOBATO",
+      "matricula_chefe": "71547830",
+      "nome_chefe": "CLEMILDA SANTANA DOS REIS DE JESUS"
+    },
+    {
+      "codigo_unidade": 10024031,
+      "sigla_unidade": "TVUEFS",
+      "nome_unidade": "TV OLHOS DÁGUA",
+      "matricula_chefe": "71571030, 71527421, 71652852",
+      "nome_chefe": "PAULA BOMFIM PEIXOTO LEITE, TAISE BOMFIM DE JESUS, MAGNO OLIVEIRA MACAMBIRA"
+    },
+    {
+      "codigo_unidade": 10024032,
+      "sigla_unidade": "UNEHF",
+      "nome_unidade": "UNID EXPERIMENTAL HORTO FLORESTAL/UEFS",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10024036,
+      "sigla_unidade": "UNINFRA",
+      "nome_unidade": "UNIDADE DE INFRAESTRUT E SERVIÇOS",
+      "matricula_chefe": "71421513, 71348354",
+      "nome_chefe": "NADJA RIBEIRO MACHADO SILVA, SAULO JOSE DOS SANTOS ROCHA"
+    },
+    {
+      "codigo_unidade": 10024039,
+      "sigla_unidade": "GEPRO",
+      "nome_unidade": "GERÊNCIA DE PROJETOS",
+      "matricula_chefe": "71307453, 71421513",
+      "nome_chefe": "MARIA DO SOCORRO SILVA, NADJA RIBEIRO MACHADO SILVA"
+    },
+    {
+      "codigo_unidade": 10024040,
+      "sigla_unidade": "PRECAM",
+      "nome_unidade": "PREFEITURA DO CAMPUS",
+      "matricula_chefe": "74520794, 71421513",
+      "nome_chefe": "ADEMIR MOREIRA DOS SANTOS JUNIOR, NADJA RIBEIRO MACHADO SILVA"
+    },
+    {
+      "codigo_unidade": 10024041,
+      "sigla_unidade": "SMANGER",
+      "nome_unidade": "SUBGERÊNCIA DE MANUTENÇÃO GERAL",
+      "matricula_chefe": "74520794",
+      "nome_chefe": "ADEMIR MOREIRA DOS SANTOS JUNIOR"
+    },
+    {
+      "codigo_unidade": 10024042,
+      "sigla_unidade": "STRANS",
+      "nome_unidade": "SUBGERÊNCIA DE TRANSPORTES",
+      "matricula_chefe": "71533580, 74520794",
+      "nome_chefe": "JUVENAL AGUIAR DE OLIVEIRA FILHO, ADEMIR MOREIRA DOS SANTOS JUNIOR"
+    },
+    {
+      "codigo_unidade": 10024043,
+      "sigla_unidade": "VICEREITOR",
+      "nome_unidade": "VICE REITORIA",
+      "matricula_chefe": "71514971",
+      "nome_chefe": "AMALI DE ANGELIS MUSSI"
+    },
+    {
+      "codigo_unidade": 10024044,
+      "sigla_unidade": "PGDP",
+      "nome_unidade": "PRÓ-REITORIA GESTÃO E DESENV PESSOAS",
+      "matricula_chefe": "92074265",
+      "nome_chefe": "MARILIA ROSA ANDRADE"
+    },
+    {
+      "codigo_unidade": 10024045,
+      "sigla_unidade": "GABREITORIA",
+      "nome_unidade": "GABINETE DA REITORIA",
+      "matricula_chefe": "71652852, 71527421",
+      "nome_chefe": "MAGNO OLIVEIRA MACAMBIRA, TAISE BOMFIM DE JESUS"
+    }
+  ],
+  "multiplos_vinculos": [
+    {
+      "cpf": "011.632.545-33",
+      "nome": "DIEGO EMANOEL SOUSA GONCALVES",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71554550",
+        "92152592"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "ASSESSORIA TÉC E DE DES ORGANIZACIONAL",
+        "DEPTO DE CIÊNCIAS SOCIAIS APLICADAS"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G4",
+        "PROFESSOR ASSISTENTE_40H"
+      ]
+    },
+    {
+      "cpf": "058.909.995-75",
+      "nome": "LUCCAS BARBOSA CARNEIRO",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "92082065",
+        "92126879"
+      ],
+      "qtd_unidades": 1,
+      "unidades_vinculadas": [
+        "DEPTO DE TECNOLOGIA"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G1",
+        "PROFESSOR ASSISTENTE_40H"
+      ]
+    },
+    {
+      "cpf": "322.141.893-00",
+      "nome": "NILO MARCIO DE ANDRADE TEIXEIRA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71307549",
+        "71514712"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "DEPTO DE LETRAS E ARTES",
+        "GERÊNCIA DE PROJETOS"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G5",
+        "PROFESSOR ASSISTENTE_40H"
+      ]
+    },
+    {
+      "cpf": "391.542.895-72",
+      "nome": "ALDO JOSE MORAIS SILVA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71307551",
+        "74440841"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "CENTRO DE DOCUMENTAÇÃO E PESQUISA",
+        "DEPTO DE CIÊNCIAS HUMANAS E FILOSOFIA"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G7",
+        "PROFESSOR PLENO_40"
+      ]
+    },
+    {
+      "cpf": "507.867.505-10",
+      "nome": "JOSE ROBERTO CARDOSO MEIRELES",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71313038",
+        "74426987"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "DEPTO DE CIÊNCIAS BIOLÓGICAS",
+        "LAB DE GENÉTICA TOXICOLÓGICA"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G5",
+        "PROFESSOR TITULAR_40"
+      ]
+    },
+    {
+      "cpf": "509.670.295-20",
+      "nome": "SAULO JOSE DOS SANTOS ROCHA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71348354",
+        "74425896"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "COL DO CURSO DE ADMINISTRAÇÃO",
+        "DEPTO DE LETRAS E ARTES"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G7",
+        "DAS3 COORDENADOR COLEGIADO"
+      ]
+    },
+    {
+      "cpf": "571.211.175-68",
+      "nome": "MONICA CAJAZEIRA SANTANA VASCONCELOS",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71307432",
+        "71535753"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "DEPTO DE LETRAS E ARTES",
+        "SEMINÁRIO DE MÚSICA"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G5",
+        "PROFESSOR ADJUNTO_40"
+      ]
+    },
+    {
+      "cpf": "571.235.195-15",
+      "nome": "SELMA SOARES DE OLIVEIRA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71309866",
+        "71362769"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "BIBLIO SETORIAL MONTEIRO LOBATO",
+        "DEPTO DE LETRAS E ARTES"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G6",
+        "PROFESSOR ADJUNTO_40"
+      ]
+    },
+    {
+      "cpf": "606.293.475-49",
+      "nome": "ANGELA GUIMARAES MARTINS",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71307219",
+        "71313584"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "DEPTO DE SAÚDE",
+        "SERVIÇO DE SAÚDE UNIVERSITÁRIO"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G5",
+        "PROFESSOR PLENO_40"
+      ]
+    },
+    {
+      "cpf": "648.369.755-49",
+      "nome": "CARLOS EDUARDO CARDOSO DE OLIVEIRA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "74425699",
+        "9381641"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "COORDENAÇÃO DE CONTROLE INTERNO",
+        "DEPTO DE CIÊNCIAS SOCIAIS APLICADAS"
+      ],
+      "cargos": [
+        "DAS2D COORDENADOR CONTROLE INTERNO II",
+        "PROFESSOR TITULAR_20"
+      ]
+    },
+    {
+      "cpf": "666.725.545-72",
+      "nome": "ELIZIA PRISCILA SOUZA DE OLIVEIRA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71307522",
+        "72417045"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "DEPTO DE CIÊNCIAS SOCIAIS APLICADAS",
+        "PRÓ-REITORIA DE ENSINO DE GRADUAÇÃO"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G5",
+        "PROFESSOR AUXILIAR_40H"
+      ]
+    },
+    {
+      "cpf": "769.153.015-34",
+      "nome": "HELIO PONCE CUNHA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71306991",
+        "74425703"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "DEPTO DE CIÊNCIAS SOCIAIS APLICADAS",
+        "PRÓ-REITORIA DE ENSINO DE GRADUAÇÃO"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G5",
+        "DAS2C DIRETOR"
+      ]
+    },
+    {
+      "cpf": "908.529.405-30",
+      "nome": "KARLA MARIA LIMA FIGUEIREDO BENE BARBOSA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71348307",
+        "92131563"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "ASSESSORIA ESP RELAÇÕES INSTITUCIONAIS",
+        "DEPTO DE CIÊNCIAS SOCIAIS APLICADAS"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G6",
+        "PROFESSOR ASSISTENTE_40H"
+      ]
+    },
+    {
+      "cpf": "940.244.995-72",
+      "nome": "MARCIO SILVA DE CARVALHO",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71424245",
+        "71494560"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "DEPTO DE SAÚDE",
+        "SERVIÇO DE SAÚDE UNIVERSITÁRIO"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G3",
+        "PROFESSOR AUXILIAR_40H"
+      ]
+    },
+    {
+      "cpf": "948.206.355-49",
+      "nome": "SONIA CARINE COVA COSTA",
+      "qtd_matriculas": 2,
+      "matriculas_ativas": [
+        "71423937",
+        "71523788"
+      ],
+      "qtd_unidades": 2,
+      "unidades_vinculadas": [
+        "DEPTO DE SAÚDE",
+        "LAB DE CIÊNC FARMACÊUTICAS"
+      ],
+      "cargos": [
+        "ANALISTA UNIVERSITÁRIO_G4",
+        "PROFESSOR PLENO_40"
+      ]
+    }
+  ]
+}

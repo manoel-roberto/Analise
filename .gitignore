@@ -1,0 +1,39 @@
+# Credentials & Secrets (Security Critical)
+acaua-web-*.json
+*service_account*.json
+*credentials*.json
+*.pem
+*.key
+.env
+.env.*
+.clasp.json
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+.tox/
+
+# Data Files & Heavy Imports (Confidential/Large Files)
+import/
+*.xls
+*.xlsx
+
+# System & Editor Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+*.log
+tmp/

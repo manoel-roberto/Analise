@@ -1,0 +1,250 @@
+{
+  "BD_Cadastro": {
+    "orig_rows": 2121,
+    "test_rows": 2121,
+    "orig_cols": 64,
+    "test_cols": 64,
+    "headers_orig": [
+      "Matricula",
+      "Nome",
+      "CPF",
+      "Sexo",
+      "Aniversário",
+      "Data de nascimento",
+      "Idade em anos",
+      "Cod. Raça",
+      "Raça",
+      "Cod. Estado Civil"
+    ],
+    "headers_test": [
+      "Matricula",
+      "Nome",
+      "CPF",
+      "Sexo",
+      "Aniversário",
+      "Data de nascimento",
+      "Idade em anos",
+      "Cod. Raça",
+      "Raça",
+      "Cod. Estado Civil"
+    ]
+  },
+  "Listagem": {
+    "orig_rows": 222,
+    "test_rows": 222,
+    "orig_cols": 8,
+    "test_cols": 8,
+    "headers_orig": [
+      "Matricula",
+      "Nome",
+      "CPF",
+      "Cargo Origem",
+      "Cargo",
+      "Grupo de empregados",
+      "Sigla. Unid. organizacional",
+      "Unid. organizacional"
+    ],
+    "headers_test": [
+      "Matricula",
+      "Nome",
+      "CPF",
+      "Cargo Origem",
+      "Cargo",
+      "Grupo de empregados",
+      "Sigla. Unid. organizacional",
+      "Unid. organizacional"
+    ]
+  },
+  "BD_Folha": {
+    "orig_rows": 19797,
+    "test_rows": 25742,
+    "orig_cols": 7,
+    "test_cols": 7,
+    "headers_orig": [
+      "Matricula",
+      "Nome",
+      "Tipo",
+      "Competência",
+      "Cod. Rubrica salarial",
+      "Rubrica salarial",
+      "VALOR"
+    ],
+    "headers_test": [
+      "Matricula",
+      "Nome",
+      "Tipo",
+      "Competência",
+      "Cod. Rubrica salarial",
+      "Rubrica salarial",
+      "VALOR"
+    ]
+  },
+  "TB_Vencimentos": {
+    "orig_rows": 27,
+    "test_rows": 27,
+    "orig_cols": 7,
+    "test_cols": 7,
+    "headers_orig": [
+      "Cargo",
+      "Carga",
+      "Grau_v",
+      "Grau",
+      "Referência",
+      "GSTU",
+      "Vencimento"
+    ],
+    "headers_test": [
+      "Cargo",
+      "Carga",
+      "Grau_v",
+      "Grau",
+      "Referência",
+      "GSTU",
+      "Vencimento"
+    ]
+  },
+  "TB_Comissionados": {
+    "orig_rows": 8,
+    "test_rows": 8,
+    "orig_cols": 2,
+    "test_cols": 2,
+    "headers_orig": [
+      "Símbolo",
+      "Vencimento"
+    ],
+    "headers_test": [
+      "Símbolo",
+      "Vencimento"
+    ]
+  },
+  "Analise_Simulacao": {
+    "orig_rows": 222,
+    "test_rows": 222,
+    "orig_cols": 35,
+    "test_cols": 35,
+    "headers_orig": [
+      "Matrícula",
+      "Nome",
+      "Cargo Amplo",
+      "Cargo",
+      "Cargo Origem",
+      "Carreira de Técnico",
+      "Área RecursosHumanos",
+      "Grupo de Empregados",
+      "SETOR",
+      "Unidade organizacional"
+    ],
+    "headers_test": [
+      "Matrícula",
+      "Nome",
+      "Cargo Amplo",
+      "Cargo",
+      "Cargo Origem",
+      "Carreira de Técnico",
+      "Área RecursosHumanos",
+      "Grupo de Empregados",
+      "SETOR",
+      "Unidade organizacional"
+    ]
+  },
+  "Visão": {
+    "orig_rows": 34,
+    "test_rows": 34,
+    "orig_cols": 16,
+    "test_cols": 16,
+    "headers_orig": [
+      "Grupo",
+      "Nome",
+      "Unidade",
+      "Matrícula",
+      "Categoria",
+      "Valor do Cargo",
+      "RTI_CET (Atual)",
+      "GSTU",
+      "%RTI_CET\n(Atual)",
+      "%Aumento Simulado"
+    ],
+    "headers_test": [
+      "Grupo",
+      "Nome",
+      "Unidade",
+      "Matrícula",
+      "Categoria",
+      "Valor do Cargo",
+      "RTI_CET (Atual)",
+      "GSTU",
+      "%RTI_CET\n(Atual)",
+      "%Aumento Simulado"
+    ]
+  },
+  "Painel de Ajuste Orçamentário - Verba RTI": {
+    "orig_rows": 41,
+    "test_rows": 41,
+    "orig_cols": 10,
+    "test_cols": 10,
+    "headers_orig": [
+      "Painel de Ajuste Orçamentário - Verba RTI",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "headers_test": [
+      "Painel de Ajuste Orçamentário - Verba RTI",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Fonte de dados": {
+    "orig_rows": 1,
+    "test_rows": 1,
+    "orig_cols": 4,
+    "test_cols": 4,
+    "headers_orig": [
+      "Origem das fonte de dados",
+      "Data de criação",
+      "Data de atualização das fontes",
+      "Data de manupulação dos dados"
+    ],
+    "headers_test": [
+      "Origem das fonte de dados",
+      "Data de criação",
+      "Data de atualização das fontes",
+      "Data de manupulação dos dados"
+    ]
+  },
+  "TB_Vencimentos_v2": {
+    "orig_rows": 141,
+    "test_rows": 141,
+    "orig_cols": 6,
+    "test_cols": 6,
+    "headers_orig": [
+      "Cargo",
+      "Vencimento",
+      "Carga",
+      "Grau",
+      "Referência",
+      "ANO"
+    ],
+    "headers_test": [
+      "Cargo",
+      "Vencimento",
+      "Carga",
+      "Grau",
+      "Referência",
+      "ANO"
+    ]
+  }
+}
